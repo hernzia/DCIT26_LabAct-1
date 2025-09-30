@@ -177,3 +177,16 @@ Each student must:
 - Submit a screenshot of their terminal showing `git log` from their personal branch.
 - Provide a link to their branch in the repository.
 - Ensure that `notes.txt` and README updates are visible in their branch on GitHub.
+
+## Additional Notes
+> [!NOTE]
+> This is an update.  
+> If you want to add ur branch name alongside the list please include it with format  
+> **- <branch_name>** [refer to this](https://www.markdownguide.org/basic-syntax/#unordered-lists)  
+
+<!-- Please follow the format. include - <branch_name> -->
+
+- CARPIO-CS_3-4/202302454
+- BARRO_CS_3-4/202302759
+- CLEOFAS-CS_3-4/202301458
+- MIRANDA-CS_3-4/202301478
